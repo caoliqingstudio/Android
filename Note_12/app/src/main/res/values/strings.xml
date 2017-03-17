@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note_12</string>
+    <string name="app_content">Content</string>
+    <string name="app_date">Date</string>
+    <string name="app_add">添加</string>
+    <string name="name">记事本</string>
+</resources>
